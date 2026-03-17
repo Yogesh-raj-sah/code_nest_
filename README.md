@@ -1,30 +1,30 @@
-# 🌐 Digen Studio Project
+# design Studio Project
 
 ## Project Author
 **Name:** Yogesh Raj Sah  
-**Project:** Digen Studio  
+**Project:** design Studio  
 **Developed by:** Yogesh Raj Sah
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
-This project was created as part of my **Digen Studio development work**.  
+This project was created as part of my **Design** Studio development work**.  
 It is a modern web application built using powerful frontend technologies to create a fast and responsive user experience.
 
 The application is developed using **React, TypeScript, Tailwind CSS, and Vite** for efficient development and performance.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 This project is built with the following technologies:
 
-- ⚡ Vite
-- 💻 TypeScript
-- ⚛️ React
-- 🎨 Tailwind CSS
-- 🧩 shadcn-ui
+-Vite
+-  TypeScript
+-  React
+- Tailwind CSS
+
 
 ---
 
